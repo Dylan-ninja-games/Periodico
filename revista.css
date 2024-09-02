@@ -1,0 +1,12 @@
+body{
+    background: linear-gradient(to left, #235,#c4c3bf, #235);
+}
+div{
+    background-color: black;
+    width: 700px;
+    height: 930px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 20px 5px #555;
+}
