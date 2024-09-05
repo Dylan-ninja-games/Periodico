@@ -35,6 +35,17 @@ body{
     background-color: #235;
     padding-left: 30px;
 }
+.logo{
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    border-radius: 250px;
+    background-image: url(https://lh4.googleusercontent.com/proxy/FF8kbAVZiZQtS-ia3FiZuH83Mq2cQcjTEy69-So9lS-yhkG102Hqb5ZP6wogzGnWdxEUJakkYlHw3iO4S0D-qLyMQr7Sw6yGNMqNnfhHbLgoJyarOWXiIf8RiE760RIuVsXX);
+    background-size: contain;
+    filter: drop-shadow(0 0 35px #363636);
+    margin: 85px 65px;
+    
+}
 
 .imagen_periodico{
     width: 370px;
